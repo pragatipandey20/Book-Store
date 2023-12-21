@@ -1,0 +1,118 @@
+{
+    "books":
+        [
+            {
+              "title": "The Great Gatsby",
+              "author": "F. Scott Fitzgerald",
+              "genre": "Fiction",
+              "price": 10.99,
+              "image": "The Great Gatsby.jpg"
+            }, {
+              "title": "The Adventures of Sherlock Holmes",
+              "author": "F. Scott Fitzgerald",
+              "genre": "Fiction",
+              "price": 100.99,
+              "image": "sherlock.jpeg"
+            },
+            {
+              "title": "To Kill a Mockingbird",
+              "author": "Harper Lee",
+              "genre": "Classics",
+              "price": 12.99,
+              "image": "To Kill a Mockingbird.jpg"
+            },
+            {
+              "title": "1984",
+              "author": "George Orwell",
+              "genre": "Dystopian",
+              "price": 9.99,
+              "image": "1984.jpg"
+            },
+            {
+              "title": "The Catcher in the Rye",
+              "author": "J.D. Salinger",
+              "genre": "Fiction",
+              "price": 11.99,
+              "image": "The Catcher in the Rye.jpg"
+            },
+            {
+              "title": "Harry Potter and the Sorcerer's Stone",
+              "author": "J.K. Rowling",
+              "genre": "Fantasy",
+              "price": 14.99,
+              "image": "Harry Potter and the Sorcerer's Stone.jpg"
+            },
+            {
+              "title": "The Hobbit",
+              "author": "J.R.R. Tolkien",
+              "genre": "Fantasy",
+              "price": 13.99,
+              "image": "The Hobbit.jpg"
+            },
+            {
+              "title": "Pride and Prejudice",
+              "author": "Jane Austen",
+              "genre": "Classics",
+              "price": 10.99,
+              "image": "Pride and Prejudice.jpg"
+            },
+            {
+              "title": "The Lord of the Rings",
+              "author": "J.R.R. Tolkien",
+              "genre": "Fantasy",
+              "price": 19.99,
+              "image": "The Lord of the Rings.jpg"
+            },
+            {
+              "title": "The Hunger Games",
+              "author": "Suzanne Collins",
+              "genre": "Dystopian",
+              "price": 8.99,
+              "image": "The Hunger Games.jpg"
+            },
+            {
+              "title": "The Da Vinci Code",
+              "author": "Dan Brown",
+              "genre": "Mystery",
+              "price": 15.99,
+              "image": "The Da Vinci Code.jpg"
+            },
+            {
+              "title": "The Shining",
+              "author": "Stephen King",
+              "genre": "Horror",
+              "price": 11.99,
+              "image": "The Shining.jpg"
+            },
+            {
+              "title": "Brave New World",
+              "author": "Aldous Huxley",
+              "genre": "Dystopian",
+              "price": 12.99,
+              "image": "Brave New World.jpg"
+            },
+            {
+              "title": "The Alchemist",
+              "author": "Paulo Coelho",
+              "genre": "Fantasy",
+              "price": 9.99,
+              "image": "The Alchemist.jpg"
+            },
+            {
+              "title": "The Road",
+              "author": "Cormac McCarthy",
+              "genre": "Post-apocalyptic",
+              "price": 14.99,
+              "image": "The Road.jpg"
+            },
+            {
+              "title": "Moby-Dick",
+              "author": "Herman Melville",
+              "genre": "Classics",
+              "price": 13.99,
+              "image": "Moby-Dick.jpg"
+            }
+          ]
+          
+    }
+    
